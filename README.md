@@ -12,6 +12,6 @@ A responsive portfolio website built with HTML, CSS, and JavaScript to showcase 
 https://shaiktabrez-portfolio.netlify.app/
 
 Author :
-Shaik Tabrez Btech-AiMl
+Shaik Tabrez Btech-AIML
 
 
